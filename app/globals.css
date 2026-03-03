@@ -11,3 +11,12 @@ body {
 .section-padding {
   padding: 100px 20px;
 }
+
+.ft a,
+.ft a:link,
+.ft a:visited,
+.ft a:hover,
+.ft a:active {
+  text-decoration: none !important;
+  color: inherit;
+}
